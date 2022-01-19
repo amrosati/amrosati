@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AMRO
+- 👋 Hi, I’m amro
 - 👀 I’m interested in math, computers, data science and programming
 - 🌱 I’m currently sudying computing and data science
 - 📫 How to reach me amrsatti98@gmail.com
