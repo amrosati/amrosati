@@ -1,6 +1,6 @@
 # 👋 Hi, I’m AMRO
 
-...- 👀 I’m interested in alot for now.
+>- 👀 I’m interested in alot for now.
 >- 🌱 I’m currently a student in ***faculty of computing and data science..***
 >>- 📫 How to reach me: **amrsatti98@gmail.com**
 
