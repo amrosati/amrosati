@@ -2,9 +2,7 @@
   <h3>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...</h3>
 </div>
 
-<br>
 -----
-<br>
 
 <h4>Hi there, I'm Amro Sati</h4>
 A dedicated software engineer with a strong foundation in problem-solving and a passion for crafting innovative solutions.
@@ -21,9 +19,7 @@ Building projects has been instrumental in my development, allowing me to apply 
 Currently, I'm honing my skills as a full-stack software engineer through the **ALX SE** *Program*.
 I'm eager to collaborate with talented individuals and contribute to open-source projects to make a positive impact on the *developer community*.
 
-<br>
 -----
-<br>
 
 ## Aiming To
 
