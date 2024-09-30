@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='right'>
 
   <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...</b>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<h3><b>Hi there, I'm Amro Sati </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
+<h4>Hi there, I'm Amro Sati</h4>
 A dedicated software engineer with a strong foundation in problem-solving and a passion for crafting innovative solutions.
 
 My journey began with a deep interest in *software engineering*. Through rigorous problem-solving exercises and real-world projects, I've honed my analytical and problem-solving skills.
