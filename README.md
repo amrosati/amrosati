@@ -1,6 +1,6 @@
 <div align='center'>
 
-  <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+  <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...</b>
 
 </div>
 
@@ -27,7 +27,7 @@ I'm eager to collaborate with talented individuals and contribute to open-source
 
 <br>
 
-## 🚀 Aiming To:
+## Aiming To
 - **Specialize in a Niche:** Explore areas of interest within software engineering, specifically *backend development*.
 - **Lead Technical Projects:** Take on leadership roles in software development projects, guiding teams and making strategic decisions.
 - **Contribute to Innovation:** Develop innovative solutions to real-world problems using cutting-edge technologies.
@@ -42,7 +42,7 @@ I'm eager to collaborate with talented individuals and contribute to open-source
 
 <div align="center">
     
-## 📫 Connect with me
+## Connect with me
 
 I'm always open to discussing new projects, collaborating on open-source initiatives, or simply connecting with other like-minded individuals in the tech community.
 Let's collaborate and create something amazing together!
