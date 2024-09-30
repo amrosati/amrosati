@@ -112,5 +112,3 @@
 <br>
 <br>
 <br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
