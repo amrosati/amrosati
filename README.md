@@ -1,8 +1,9 @@
 <div align='right'>
-  <h3>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...</h3>
+  <h2>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...</h2>
 </div>
 
------
+<br>
+<br>
 
 <h4>Hi there, I'm Amro Sati</h4>
 A dedicated software engineer with a strong foundation in problem-solving and a passion for crafting innovative solutions.
@@ -19,9 +20,14 @@ Building projects has been instrumental in my development, allowing me to apply 
 Currently, I'm honing my skills as a full-stack software engineer through the **ALX SE** *Program*.
 I'm eager to collaborate with talented individuals and contribute to open-source projects to make a positive impact on the *developer community*.
 
+<br>
+
 -----
 
+<br>
+
 ## Aiming To
+<br>
 
 - **Specialize in a Niche:** Explore areas of interest within software engineering, specifically *backend development*.
 - **Lead Technical Projects:** Take on leadership roles in software development projects, guiding teams and making strategic decisions.
@@ -29,11 +35,14 @@ I'm eager to collaborate with talented individuals and contribute to open-source
 - **Mentor and Teach:** Share my knowledge and experience by mentoring junior developers or teaching programming courses.
 - **Start My Own Venture:** Feeding my entrepreneurial aspirations, building my own software products.
 
-<br>
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+
+<br><br>
 
 <div align="center">
+  
   ## Connect with me
   
   I'm always open to discussing new projects, collaborating on open-source initiatives, or simply connecting with other like-minded individuals in the tech community.
@@ -41,9 +50,12 @@ I'm eager to collaborate with talented individuals and contribute to open-source
   
   Feel free to reach out to me via:
   
+  <br>
+  
   [![ProtonMail](https://img.shields.io/badge/-protonmail-505264?style=for-the-badge&logo=ProtonMail&logoColor=#8a90c7)](mailto:amrosati@proton.me)&nbsp;
   [![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/684736826501890064)&nbsp;
   [![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrosatti)
+  
 </div>
 
 <br>
