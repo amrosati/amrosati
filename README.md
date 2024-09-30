@@ -34,16 +34,16 @@ I'm eager to collaborate with talented individuals and contribute to open-source
 <br>
 
 <div align="center">
-## Connect with me
-
-I'm always open to discussing new projects, collaborating on open-source initiatives, or simply connecting with other like-minded individuals in the tech community.
-Let's collaborate and create something amazing together!
-
-Feel free to reach out to me via:
-
-[![ProtonMail](https://img.shields.io/badge/-protonmail-505264?style=for-the-badge&logo=ProtonMail&logoColor=#8a90c7)](mailto:amrosati@proton.me)&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/684736826501890064)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrosatti)
+  ## Connect with me
+  
+  I'm always open to discussing new projects, collaborating on open-source initiatives, or simply connecting with other like-minded individuals in the tech community.
+  Let's collaborate and create something amazing together!
+  
+  Feel free to reach out to me via:
+  
+  [![ProtonMail](https://img.shields.io/badge/-protonmail-505264?style=for-the-badge&logo=ProtonMail&logoColor=#8a90c7)](mailto:amrosati@proton.me)&nbsp;
+  [![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/684736826501890064)&nbsp;
+  [![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrosatti)
 </div>
 
 <br>
