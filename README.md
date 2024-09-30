@@ -1,9 +1,9 @@
 <div align='right'>
-
-  <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...</b>
-
+  <h3>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...</h3>
 </div>
 
+<br>
+-----
 <br>
 
 <h4>Hi there, I'm Amro Sati</h4>
@@ -22,12 +22,11 @@ Currently, I'm honing my skills as a full-stack software engineer through the **
 I'm eager to collaborate with talented individuals and contribute to open-source projects to make a positive impact on the *developer community*.
 
 <br>
-
 -----
-
 <br>
 
 ## Aiming To
+
 - **Specialize in a Niche:** Explore areas of interest within software engineering, specifically *backend development*.
 - **Lead Technical Projects:** Take on leadership roles in software development projects, guiding teams and making strategic decisions.
 - **Contribute to Innovation:** Develop innovative solutions to real-world problems using cutting-edge technologies.
@@ -35,13 +34,10 @@ I'm eager to collaborate with talented individuals and contribute to open-source
 - **Start My Own Venture:** Feeding my entrepreneurial aspirations, building my own software products.
 
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br>
 
 <div align="center">
-    
 ## Connect with me
 
 I'm always open to discussing new projects, collaborating on open-source initiatives, or simply connecting with other like-minded individuals in the tech community.
@@ -53,9 +49,5 @@ Feel free to reach out to me via:
 [![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/684736826501890064)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrosatti)
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
